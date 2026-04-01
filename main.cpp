@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout<<"Hello, Githu";
+    cout<<"Hello, Github! All";
     return 0;
 }
